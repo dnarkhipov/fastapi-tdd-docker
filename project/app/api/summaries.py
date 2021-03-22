@@ -13,7 +13,6 @@ from app.models.pydantic import (  # isort:skip
 )
 
 
-
 router = APIRouter()
 
 
